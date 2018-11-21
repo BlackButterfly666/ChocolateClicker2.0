@@ -1968,6 +1968,12 @@ Prefab:
       propertyPath: m_Name
       value: ContainerIngredient
       objectReference: {fileID: 0}
+    - target: {fileID: 114755089228017406, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a864deb6cb63e4b4eb2df34417d60f76,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bde1d144f8f1d042981dfd3e7d5331c, type: 2}
   m_IsPrefabAsset: 0
@@ -2195,7 +2201,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &837820582
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3432,6 +3438,12 @@ Prefab:
       propertyPath: m_Name
       value: ContainerIngredient
       objectReference: {fileID: 0}
+    - target: {fileID: 114755089228017406, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e42449bd30660f645b6d049d4a7ca03f,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bde1d144f8f1d042981dfd3e7d5331c, type: 2}
   m_IsPrefabAsset: 0
@@ -3540,6 +3552,17 @@ Prefab:
     - target: {fileID: 1847940732965310, guid: 9bde1d144f8f1d042981dfd3e7d5331c, type: 2}
       propertyPath: m_Name
       value: ContainerIngredient
+      objectReference: {fileID: 0}
+    - target: {fileID: 114755089228017406, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e69c067fee2165d4bbeeafb82ca1c679,
+        type: 3}
+    - target: {fileID: 114316058391433900, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_Text
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bde1d144f8f1d042981dfd3e7d5331c, type: 2}
@@ -4788,6 +4811,27 @@ Prefab:
         type: 2}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114755089228017406, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 144255ac7d517f44482b1563877abf22,
+        type: 3}
+    - target: {fileID: 224396938847265018, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224396938847265018, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114316058391433900, guid: 9bde1d144f8f1d042981dfd3e7d5331c,
+        type: 2}
+      propertyPath: m_Text
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bde1d144f8f1d042981dfd3e7d5331c, type: 2}
